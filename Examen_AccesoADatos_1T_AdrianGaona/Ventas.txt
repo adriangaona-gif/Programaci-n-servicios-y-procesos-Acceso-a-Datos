@@ -1,0 +1,17 @@
+Venta{idVenta=1, producto='Camiseta roja', cantidad=5, precio=12.5}, Importe=62.5
+Venta{idVenta=2, producto='Zapatillas negras', cantidad=1, precio=45.0}, Importe=45.0
+Venta{idVenta=3, producto='Gorra blanca', cantidad=6, precio=10.0}, Importe=60.0
+Venta{idVenta=4, producto='Pantalón gris', cantidad=2, precio=30.0}, Importe=60.0
+Venta{idVenta=5, producto='Sudadera azul', cantidad=3, precio=25.0}, Importe=75.0
+Venta{idVenta=6, producto='Zapatillas negras', cantidad=3, precio=45.0}, Importe=135.0
+Venta{idVenta=7, producto='Camiseta roja', cantidad=4, precio=12.5}, Importe=50.0
+Venta{idVenta=8, producto='Pantalón gris', cantidad=1, precio=30.0}, Importe=30.0
+Venta{idVenta=9, producto='Zapatillas negras', cantidad=2, precio=45.0}, Importe=90.0
+Venta{idVenta=10, producto='Camiseta roja', cantidad=2, precio=12.5}, Importe=25.0
+Venta{idVenta=11, producto='Gorra blanca', cantidad=4, precio=10.0}, Importe=40.0
+Venta{idVenta=12, producto='Pantalón gris', cantidad=3, precio=30.0}, Importe=90.0
+Venta{idVenta=13, producto='Sudadera azul', cantidad=1, precio=25.0}, Importe=25.0
+Venta{idVenta=14, producto='Zapatillas negras', cantidad=2, precio=45.0}, Importe=90.0
+Venta{idVenta=15, producto='Gorra negra', cantidad=2, precio=15.0}, Importe=30.0
+Venta{idVenta=16, producto='Gorra negra', cantidad=2, precio=15.0}, Importe=30.0
+Recaudación total: 937.5
